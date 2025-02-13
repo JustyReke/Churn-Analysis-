@@ -23,3 +23,9 @@ The dataset underwent a comprehensive cleaning and transformation process to ens
   ![Screenshot 2025-02-13 135004](https://github.com/user-attachments/assets/87a563ad-ca3d-4190-90fa-1570db4bd284)
 
 
+  # Data Visualization
+
+  ![Uploading Screenshot 2024-12-15 165657.png…]()
+
+
+
