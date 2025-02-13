@@ -15,3 +15,11 @@ To address this issue proactively, the bank provided a churn database containing
 
 [Data Dictionary](https://docs.google.com/document/d/1LujgftXUBdd7fEscYFml0meJq6xdREsph_pw--PRMeU/edit?usp=sharing)
 
+# Data Transformation 
+The dataset underwent a comprehensive cleaning and transformation process to ensure accuracy, consistency, and usability. This involved handling missing values, standardizing formats, and addressing inconsistencies in the data. Additionally, new conditional columns were introduced, derived from existing attributes, to provide deeper insights and improve the dataset's analytical value. These enhancements helped refine the structure of the data, making it more suitable for further analysis and modeling.
+
+- Dataset after transformation
+
+  ![Screenshot 2025-02-13 135004](https://github.com/user-attachments/assets/87a563ad-ca3d-4190-90fa-1570db4bd284)
+
+
