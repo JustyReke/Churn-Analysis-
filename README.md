@@ -92,7 +92,6 @@ Age-Specific Strategies: Adults (30-45 years) are the most likely to churn, sugg
 
 - Develop age-specific retention plans, particularly for the adult segment.
 
-  # Author
 
 
 
