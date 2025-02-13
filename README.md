@@ -79,9 +79,10 @@ Geographical Focus: France has the highest number of customers; churn patterns s
 Tenure-Based Churn: Early-stage and long-term customers require different retention strategies.
 Credit Score Considerations: Customers with lower credit scores might need financial support programs to reduce churn.
 Age-Specific Strategies: Adults (30-45 years) are the most likely to churn, suggesting a need for engagement efforts tailored to this group.
-Recommendations
 
-✔ Implement customer engagement programs to retain early-stage customers.
+# Recommendations
+
+ Implement customer engagement programs to retain early-stage customers.
 
 ✔ Offer loyalty incentives for long-tenure customers to prevent them from leaving.
 
