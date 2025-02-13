@@ -11,4 +11,4 @@ A Canadian bank, struggling with customer retention, sought assistance from Data
 To address this issue proactively, the bank provided a churn database containing information on 10,000 customers over a six-month period. This data serves as a foundation for identifying and mitigating the factors contributing to customer attrition.
 
 # DATA SOURCE
-[Dataset] (https://docs.google.com/spreadsheets/d/1uaklnnc7yeQFgHBR4cP9w91QJcUypdRZWud-MMk8FQM/edit?usp=sharing)
+[Dataset](https://docs.google.com/spreadsheets/d/1uaklnnc7yeQFgHBR4cP9w91QJcUypdRZWud-MMk8FQM/edit?usp=sharing)
