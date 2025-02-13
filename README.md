@@ -55,6 +55,7 @@ The highest number of churned customers had the following tenure lengths:
 3 Years: 213
 9 Years: 213
 5 Years: 209
+
 Customers tend to leave within the first few years (1-3 years) and also around 9 years. This suggests that both early engagement strategies and long-term customer relationship management are crucial for retention.
 
 - Credit Score Analysis
@@ -87,7 +88,6 @@ Age-Specific Strategies: Adults (30-45 years) are the most likely to churn, sugg
 
 - Develop age-specific retention plans, particularly for the adult segment.
 
-By addressing these factors, the bank can reduce churn and enhance customer satisfaction.
 
 
 
