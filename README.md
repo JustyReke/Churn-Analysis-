@@ -25,7 +25,8 @@ The dataset underwent a comprehensive cleaning and transformation process to ens
 
   # DATA VISUALIZATION
 
-  ![Uploading Screenshot 2024-12-15 165657.png…]()
+![Screenshot 2024-12-15 165657](https://github.com/user-attachments/assets/e2aa8767-cafe-4259-b7c7-3eb17e1f3950)
+
 
 This Churn Customer Analysis Dashboard provides a detailed visualization of customer churn trends for a financial institution. Below is a structured interpretation and key insights from the dashboard:
 
