@@ -52,13 +52,13 @@ The highest number of customers (50%) belong to France, followed by Germany (25%
 - Churned Customers by Tenure
 The highest number of churned customers had the following tenure lengths:
 
-1 Year: 232
+  1 Year: 232
 
-3 Years: 213
+  3 Years: 213
 
-9 Years: 213
+  9 Years: 213
 
-5 Years: 209
+  5 Years: 209
 
 Customers tend to leave within the first few years (1-3 years) and also around 9 years. This suggests that both early engagement strategies and long-term customer relationship management are crucial for retention.
 
